@@ -1,4 +1,6 @@
-URL <a herf="https://worldnews-com.onrender.com/" target="__blank">worldnews.com</a>
+# URL
+<a href="https://worldnews-com.onrender.com/">worldnews.com</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
