@@ -36,7 +36,7 @@ export default class News extends Component {
   }
 
   componentDidMount() {
- //  this.getNews();
+   this.getNews();
   }
 
   populateItems() {
